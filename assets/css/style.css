@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(82, 11, 116);
+    color: rgb(194, 169, 28);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#gameValues {
+    display: block;
+    color: rgb(194, 169, 28);
+    background-color: rgb(82, 11, 116);
+    font-size: 18px;
+}
